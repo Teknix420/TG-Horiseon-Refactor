@@ -9,3 +9,7 @@ Changes made to code:
     -Replaced Non-Semantic elements with Semantic elements
     -Re-Ordered the Links and List alphabetically
     -Renamed the website title to Horiseon
+    -Fixed the link for the "Search Engine Optimization" since it wouldn't scroll down the page
+    -Added comments briefly describing each section and how it correlates to the page
+
+Refactor was completed by: Travis Gray
